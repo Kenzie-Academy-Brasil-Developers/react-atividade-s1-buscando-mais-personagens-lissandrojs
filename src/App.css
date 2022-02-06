@@ -1,0 +1,7 @@
+body{
+  background: #afd8a3;
+}
+.container--btn{
+  display: flex;
+  justify-content: center;
+}

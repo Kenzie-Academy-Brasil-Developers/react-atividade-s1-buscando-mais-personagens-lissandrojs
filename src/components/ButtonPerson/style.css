@@ -1,0 +1,10 @@
+.btn--click{
+    width: 140px;
+    height: 60px;
+    background-color: unset;
+    border: 8px solid #18c1f0;
+    color: #18c1f0;
+    font-size: 25px;
+    margin: 0 10px;
+    border-radius: 20px;
+}
